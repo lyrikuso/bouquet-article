@@ -1,6 +1,6 @@
 # 「スイミング・スクール」を読む
 
- &copy; 小峰さちこ｜licensed under the [CC-BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/deed.ja)
+&copy; 小峰さちこ｜licensed under the [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/deed.ja).
 
 ```tex
 @incollection{小峰さちこ2020,
